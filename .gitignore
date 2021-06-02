@@ -1,5 +1,7 @@
 # for API module
 config.py
+random_numbers.ipynb
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

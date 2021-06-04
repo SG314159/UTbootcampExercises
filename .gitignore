@@ -2,10 +2,6 @@
 config.py
 random_numbers.ipynb
 
-# large data files for Module 8
-wikipedia-movies.json
-movies_metadata.csv
-ratings.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

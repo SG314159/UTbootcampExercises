@@ -1,7 +1,12 @@
+
 # for API module
 config.py
 random_numbers.ipynb
 
+# for Module 8 large data files
+ratings.csv
+movies_metadata.csv
+wikipedia-movies.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
